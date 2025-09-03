@@ -1,5 +1,5 @@
 {
-  "name": "modern-dev-toolkit",
+  "name": "dev-toolkit",
   "version": "1.0.0",
   "description": "Complete development toolkit for modern applications",
   "main": "dist/index.js",
