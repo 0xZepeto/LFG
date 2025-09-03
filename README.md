@@ -20,3 +20,13 @@ Advanced environment configuration manager with validation, encryption, and temp
 
 ```bash
 npm install env-config-manager
+
+{
+  id: 'name',
+  type: 'text',
+  label: 'Full Name',
+  placeholder: 'Enter your name',
+  required: true,
+  minLength: 2,
+  maxLength: 50
+}
